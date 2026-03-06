@@ -23,3 +23,5 @@ A containerized task management system built with DevOps best practices.
 
 ```bash
 docker compose up --build
+
+![Task Manager Screenshot](screenshot.png)
